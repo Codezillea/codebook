@@ -1,7 +1,7 @@
 import { Link, useNavigate } from "react-router-dom";
 import { getUser, logout } from "../../services"
 import { useState,useEffect } from "react";
-import { ToastContainer, toast } from 'react-toastify';
+import {  toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 export const DropdownLoggedIn = ({setDropdown}) => {
@@ -38,7 +38,7 @@ export const DropdownLoggedIn = ({setDropdown}) => {
 
         }
         fetchData();
-    },[])
+    },[])//eslint-disable-line
 
     
     return (

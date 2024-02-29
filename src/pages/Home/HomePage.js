@@ -4,7 +4,7 @@ import { Testimonials } from "./components/Testimonials";
 import { Faq } from "./components/Faq"
 import { useTitle } from "../../Hooks/useTitle";
 export const HomePage = () => {
-  const title = useTitle(" Access Latest Computer Science E-Books ");
+  useTitle(" Access Latest Computer Science E-Books ");
     return (
       <main>
         <Hero />

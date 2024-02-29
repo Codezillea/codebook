@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import { useTitle } from "../Hooks/useTitle";
 import { useCart } from "../context";
 import { getProduct } from "../services";
-import { ToastContainer, toast } from 'react-toastify';
+import {  toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 export const ProductDetail = () => {

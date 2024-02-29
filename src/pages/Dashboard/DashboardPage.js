@@ -8,10 +8,7 @@ import { getUserOrders } from "../../services/dataService";
 export const DashbaordPage = () => {
   useTitle("My DashBoard")
   const [orders,setOrders] = useState([]);
-    const cbid = JSON.parse(sessionStorage.getItem("cbid"));
-    const token = JSON.parse(sessionStorage.getItem("token"))
-
-
+   
   useEffect( ()=>{
     
     async function fetchOrders()

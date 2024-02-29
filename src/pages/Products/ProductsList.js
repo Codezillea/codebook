@@ -2,21 +2,21 @@ import { useEffect, useState } from "react";
 import { useTitle } from "../../Hooks/useTitle";
 import { useLocation } from "react-router-dom";
 
-import { ToastContainer, toast } from 'react-toastify';
+import {  toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { ProductCard } from "../../components";
 import {FilterBar} from "./components/FilterBar";
 
 import { useFilter } from "../../context"
 import { getProductList } from "../../services";
-import { PageNotFound } from "../PageNotFound";
+
 
 export const ProductsList = () => {
 
   const { products,initialProductList }=useFilter();
  const [errorMessage, setErrorMessage]=useState("")
 
-  const title = useTitle(" Explore eBooks Collection ")
+  useTitle(" Explore eBooks Collection ")
   const [filter,setFilter]=useState(false);
 
   const search=useLocation().search;

@@ -5,7 +5,7 @@ import { OrderFail } from "./components/OrderFail";
 import { useTitle } from "../../Hooks/useTitle";
 export const OrderPage = () => {
 
-  const {state,data}  = useLocation();
+  const {state}  = useLocation();
   useTitle("Order Summary ")
 
     return (

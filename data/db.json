@@ -1,0 +1,272 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics To Advanced In React",
+      "overview": "From fundamentals to mastery, 'Basics to Advanced in React' eBook offers clear guidance on React development. Learn everything from basic components to advanced Redux integration and performance optimization.",
+      "long_description": " A comprehensive eBook designed to take you on a journey from foundational concepts to mastery in React development. Starting with the basics of React components, state management, and JSX syntax, the book gradually progresses to advanced topics like Redux integration, routing, and performance optimization techniques. With clear explanations and hands-on examples, this eBook serves as an invaluable resource for both beginners and seasoned developers looking to enhance their React skills and build robust, scalable web applications.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework for Beginners",
+      "overview": "It's a beginner-friendly eBook that introduces Django, a Python-based web framework. It covers setting up, project management, and building web applications, making it an ideal starting point for newcomers to Django development",
+      "long_description": "a comprehensive eBook designed to introduce newcomers to the world of web development using Django, a powerful Python-based framework. This concise guide provides step-by-step instructions and hands-on tutorials to help beginners grasp the fundamentals of Django, including setting up a development environment, creating and managing Django projects, building dynamic web applications, and deploying them to production servers. With clear explanations and practical examples, this eBook equips beginners with the essential knowledge and skills to start building their own web applications with Django",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Future of Design Systems",
+      "overview": "This ebook offers insights into the evolving role of design systems in digital experiences, catering to designers, developers, and strategists.",
+      "long_description": "It's a forward-thinking e-book exploring the evolution and potential of design systems in shaping digital experiences. From industry trends to emerging technologies, this concise guide delves into how design systems are poised to revolutionize the way we create and maintain cohesive, user-centric design across platforms. Ideal for designers, developers, and digital strategists, it offers insights and strategies to navigate the dynamic landscape of design system development in the ever-evolving digital ecosystem.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "A concise handbook for mastering backend systems, covering server architecture, databases, and deployment strategies. Ideal for developers of all levels, it provides essential insights for creating scalable, efficient, and secure backend solutions..",
+      "long_description": "The Complete Guide to Backend Development is an essential e-book that offers a comprehensive overview of the principles, technologies, and best practices involved in building robust backend systems for web and mobile applications. From understanding server architecture to mastering databases, APIs, and deployment strategies, this guide equips developers with the knowledge and skills needed to create scalable, efficient, and secure backend solutions. Whether you're a beginner looking to delve into backend development or a seasoned developer seeking to enhance your expertise, this e-book serves as a valuable resource to navigate the complexities of backend development effectively.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "This is a practical e-book that guides developers through the process of creating a blockchain using the Go programming language. It offers clear instructions and insights, making it an essential resource for anyone interested in blockchain development",
+      "long_description": "This is an essential e-book for developers aiming to delve into blockchain technology. This concise guide takes you through the creation of a blockchain using the Go programming language, offering step-by-step instructions and insightful explanations. From setting up the foundational blocks to implementing consensus algorithms, this book equips you with the knowledge and skills to construct your very own blockchain network. Whether you're a novice or an experienced developer, this e-book serves as a comprehensive resource for understanding the inner workings of blockchain technology through practical implementation in Go.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "This ebook is your shortcut to mastering HTML, CSS, JavaScript, and popular frameworks like React and Vue.js through practical projects. Ideal for beginners and those looking to level up their skills.",
+      "long_description": "This e-book designed to accelerate your journey into frontend development. With a focus on practicality, it offers a curated roadmap to mastering frontend technologies efficiently. Through a series of hands-on projects, you'll dive into HTML, CSS, JavaScript, and popular frameworks like React and Vue.js. Whether you're a beginner or looking to level up your skills, this e-book provides a clear path to becoming a proficient frontend .",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Master the Code Review",
+      "overview": "It's your go-to guide for improving code quality and collaboration through effective review processes.",
+      "long_description": "This is a comprehensive e-book that serves as a practical guide for software developers looking to refine their skills in code review processes. Covering essential principles, best practices, and actionable insights, this e-book equips readers with the knowledge and strategies needed to conduct effective and efficient code reviews. Whether you're a seasoned developer or just starting out, 'Master the Code Review' empowers you to enhance code quality, foster collaboration, and elevate your overall development workflow.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "It's a rapid guidebook by Shubham, offering a swift journey from beginner to advanced JavaScript proficiency. Ideal for quick mastery of essential and advanced concepts.",
+      "long_description": "It's is an essential guidebook crafted for beginners and intermediate learners alike, aiming to accelerate your journey through JavaScript programming. Authored by Shubham, a seasoned developer, this eBook offers a comprehensive yet succinct exploration of JavaScript's fundamental concepts, gradually advancing to more intricate topics. From understanding variables, functions, and loops to delving into object-oriented programming, asynchronous operations, and DOM manipulation, each chapter is designed to bolster your understanding and proficiency in JavaScript. Whether you're aiming to build dynamic web applications or enhance your coding skills, this eBook serves as an indispensable resource, providing clear explanations, practical examples, and expert insights to propel your JavaScript expertise to new heights.",
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Python Deep Dive With Projects",
+      "overview": "It's  an e-book that explores Python fundamentals and applies them to real-world projects, offering hands-on experience in web development, data analysis, and machine learning. Ideal for beginners and experienced developers alike.",
+      "long_description": "It's an insightful e-book that takes readers on a journey through Python's core concepts and then applies them to real-world projects. From fundamental data structures and algorithms to advanced topics like object-oriented programming and design patterns, this book provides a comprehensive understanding of Python. Through hands-on projects ranging from web development to data analysis and machine learning, readers gain practical experience and confidence in their Python skills. Whether you're a beginner looking to solidify your understanding or an experienced developer seeking to deepen your knowledge, 'Python Deep Dive With Projects' offers valuable insights and practical examples to elevate your Python proficiency.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "Mastering Software Technique",
+      "overview": "'Mastering Software Technique' is an essential e-book for honing your software development skills, offering practical insights and techniques for both beginners and seasoned professionals alike.",
+      "long_description": " It is a comprehensive e-book designed to elevate your proficiency in software development. From fundamental principles to advanced strategies, this guide offers practical insights and hands-on techniques to enhance your coding skills, optimize performance, and streamline development processes. Whether you're a novice seeking a solid foundation or an experienced developer aiming to refine your craft, this e-book equips you with the knowledge and tools necessary to excel in the ever-evolving landscape of software engineering.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Web Development Foundation",
+      "overview": "Its a concise e-book introducing beginners to essential web development concepts like HTML, CSS, and JavaScript, offering clear explanations and practical examples for building functional websites..",
+      "long_description": "It's an essential e-book that serves as a comprehensive introduction to the fundamental concepts and practices of web development. Covering HTML, CSS, JavaScript, and other key technologies, this guide equips beginners with the knowledge needed to create engaging and functional websites. Whether you're a novice looking to build a strong foundation or an experienced developer seeking to refresh your skills, this e-book provides clear explanations, practical examples, and hands-on exercises to help you master the essentials of web development.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mastering Git and GitHub - A Practical Guide",
+      "overview": " 'Mastering Git and GitHub' is a concise e-book offering practical guidance for developers. It covers everything from basic commands to advanced workflows, empowering readers to efficiently manage projects and collaborate effectively using Git and GitHub.",
+      "long_description": "A Practical Guide is an essential e-book for developers seeking comprehensive mastery of version control with Git and collaboration on GitHub. With clear explanations and hands-on tutorials, this guide empowers readers to navigate Git's commands, workflows, branching strategies, and advanced features with confidence. From basic commands to complex scenarios, this resource equips readers with the skills needed to efficiently manage projects, resolve conflicts, and streamline collaboration in software development teams. Whether you're a beginner or an experienced developer, this book provides invaluable insights and strategies for leveraging Git and GitHub effectively in your projects",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Everything About React v16",
+      "overview": " 'Everything About React v16' is a concise eBook that covers all aspects of React version 16, offering practical insights and examples for both beginners and experienced developers.",
+      "long_description": " 'Everything About React v16 'is an essential eBook providing a comprehensive overview of React version 16, the popular JavaScript library for building user interfaces. Covering fundamental concepts, advanced techniques, and best practices, this concise guide offers practical insights and examples to help both beginners and experienced developers harness the full power of React v16 in their projects. From component-based architecture to state management and hooks, this eBook equips readers with the knowledge needed to create dynamic and efficient web applications with React v16.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Diving Deep With Python 2.7",
+      "overview": "'Diving Deep With Python 2.7' is an advanced e-book for Python enthusiasts, offering insights into complex programming tasks and mastering Python 2.7's capabilities.",
+      "long_description": "'Diving Deep With Python 2.7' is a comprehensive e-book designed to take Python enthusiasts on a journey into the depths of the language's capabilities. This guide explores advanced concepts and techniques, equipping readers with the skills needed to tackle complex programming tasks with confidence. From mastering Python's powerful libraries to delving into data manipulation, networking, and beyond, this e-book is an essential resource for those ready to dive deep into the world of Python 2.7 programming.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Kickstart Your UI Design Career",
+      "overview": "Jumpstart your UI design career with this practical e-book, covering design principles, tools, portfolio building, and job hunting strategies.",
+      "long_description": "'Kickstart Your UI Design Career' is a comprehensive e-book that serves as a practical guide for aspiring UI designers. Covering essential topics such as design principles, tools, portfolio development, and job hunting strategies, this resource equips readers with the knowledge and confidence needed to embark on a successful career in UI design. With actionable tips and real-world examples, this e-book is an invaluable companion for anyone looking to enter the dynamic and rewarding field of UI design.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "A concise handbook for mastering backend systems, covering server architecture, databases, and deployment strategies. Ideal for developers of all levels, it provides essential insights for creating scalable, efficient, and secure backend solutions..",
+      "long_description": "The Complete Guide to Backend Development is an essential e-book that offers a comprehensive overview of the principles, technologies, and best practices involved in building robust backend systems for web and mobile applications. From understanding server architecture to mastering databases, APIs, and deployment strategies, this guide equips developers with the knowledge and skills needed to create scalable, efficient, and secure backend solutions. Whether you're a beginner looking to delve into backend development or a seasoned developer seeking to enhance your expertise, this e-book serves as a valuable resource to navigate the complexities of backend development effectively.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "This ebook is your shortcut to mastering HTML, CSS, JavaScript, and popular frameworks like React and Vue.js through practical projects. Ideal for beginners and those looking to level up their skills.",
+      "long_description": "This e-book designed to accelerate your journey into frontend development. With a focus on practicality, it offers a curated roadmap to mastering frontend technologies efficiently. Through a series of hands-on projects, you'll dive into HTML, CSS, JavaScript, and popular frameworks like React and Vue.js. Whether you're a beginner or looking to level up your skills, this e-book provides a clear path to becoming a proficient frontend .",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "It's a rapid guidebook by Shubham, offering a swift journey from beginner to advanced JavaScript proficiency. Ideal for quick mastery of essential and advanced concepts.",
+      "long_description": "It's is an essential guidebook crafted for beginners and intermediate learners alike, aiming to accelerate your journey through JavaScript programming. Authored by Shubham, a seasoned developer, this eBook offers a comprehensive yet succinct exploration of JavaScript's fundamental concepts, gradually advancing to more intricate topics. From understanding variables, functions, and loops to delving into object-oriented programming, asynchronous operations, and DOM manipulation, each chapter is designed to bolster your understanding and proficiency in JavaScript. Whether you're aiming to build dynamic web applications or enhance your coding skills, this eBook serves as an indispensable resource, providing clear explanations, practical examples, and expert insights to propel your JavaScript expertise to new heights.",
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "Basics To Advanced In React",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10008,
+          "name": "JavaScript Basics To Advance With Shubham",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis."
+
+    }]
+  }],
+  "users": [
+    
+    
+    {
+      "email": "sampleCheck@gmail.com",
+      "password": "$2a$10$DDwArpXI5dRq.ZcrW6U/5uWhq6.E3EeeFB4poZBOatLgfDSOQQV02",
+      "name": "SampleCheck",
+      "id": 9
+    }
+  ]
+}

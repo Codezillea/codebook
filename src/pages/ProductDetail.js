@@ -1,11 +1,12 @@
-import { useEffect, useState } from "react"
+import { useEffect, useState } from "react";
+import 'react-toastify/dist/ReactToastify.css';
 import { Rating } from "../components";
 import { useParams } from "react-router-dom";
 import { useTitle } from "../Hooks/useTitle";
 import { useCart } from "../context";
 import { getProduct } from "../services";
 import {  toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
+
 
 export const ProductDetail = () => {
 
